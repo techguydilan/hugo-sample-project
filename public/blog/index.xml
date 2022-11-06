@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Millennial Gentleman</title>
+    <link>http://localhost/blog/</link>
+    <description>Recent content in Blog on Millennial Gentleman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2022 15:58:06 -0400</lastBuildDate><atom:link href="http://localhost/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Some stuff that&#39;s not crap</title>
+      <link>http://localhost/blog/post3/</link>
+      <pubDate>Sat, 05 Nov 2022 16:37:25 -0400</pubDate>
+      
+      <guid>http://localhost/blog/post3/</guid>
+      <description>Here&amp;rsquo;s stuff that&amp;rsquo;s not crap.</description>
+    </item>
+    
+    <item>
+      <title>Some more crap to read</title>
+      <link>http://localhost/blog/post2/</link>
+      <pubDate>Mon, 31 Oct 2022 16:35:11 -0400</pubDate>
+      
+      <guid>http://localhost/blog/post2/</guid>
+      <description>This is post two.
+A small tiny header These are more of my feelings on the subject.
+Another list And another item on said list Another parent item too </description>
+    </item>
+    
+    <item>
+      <title>Some crap to get you to read</title>
+      <link>http://localhost/blog/post1/</link>
+      <pubDate>Thu, 02 Sep 2021 15:58:21 -0400</pubDate>
+      
+      <guid>http://localhost/blog/post1/</guid>
+      <description>This is some feelings I have on the topics below:
+Blah The quick brown fox jumped over the lazy dog.</description>
+    </item>
+    
+  </channel>
+</rss>

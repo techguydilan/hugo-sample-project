@@ -1,0 +1,17 @@
+{{ define "title" }}{{ .Title }} | {{ .Site.Title }}{{ end }}
+
+{{ define "main" }}
+<div id="pagetitle">
+<h1 style="text-align: left;">{{ .Title }}</h1>
+</div>
+<div id="postdate">
+<em>{{ .Date.Format "2 Jan 2006" }}</em>
+</div>
+<div id="pagebody">
+{{ .Content }}
+</div>
+{{ end }}
+
+{{ define "footer"}}
+<a href="{{ .FirstSection.RelPermalink }}">Back to Blog</a>
+{{ end }}

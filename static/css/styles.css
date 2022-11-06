@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    font-size: 16pt;
+    max-width: 900px;
+    margin: auto;
+}
+
+a {
+    color: rgb(230, 10, 10);
+}
+
+.page {
+    background-color: rgb(0, 0, 70);
+    padding: 20px 40px;
+    border: solid 2px rgb(255, 255, 255);
+    border-radius: 20px;
+}
+
+.footer {
+    padding-top: 10px;
+    text-align: center;
+}
+
+#maincontent h1,h2,h3,h4,h5,h6 {
+    text-align: center;
+}
+
+#header {
+    text-align: center;
+}

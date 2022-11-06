@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost/blog/post3/</loc>
+    <lastmod>2022-11-05T16:37:25-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost/blog/</loc>
+    <lastmod>2022-11-05T15:58:06-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost/</loc>
+    <lastmod>2022-11-05T15:57:36-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost/blog/post2/</loc>
+    <lastmod>2022-10-31T16:35:11-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost/blog/post1/</loc>
+    <lastmod>2021-09-02T15:58:21-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost/categories/</loc>
+  </url><url>
+    <loc>http://localhost/tags/</loc>
+  </url>
+</urlset>
